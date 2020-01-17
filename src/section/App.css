@@ -1,27 +1,22 @@
 .portfolio-grid{
   height: 80vh;
   width: 100%;
-  background-color: rgb(7, 1, 22); 
+  background-color: rgb(7, 1, 22);
 }
-.img{
-  display: flex;
-  justify-content: center;
-}
-.avatar-img{
-  height: 300px;
-  width: 230px;
-  padding-top: 6em;
-  border-radius: 10px;
-}
-.intro-grid{
-  font-size: 20px;
-  color: #f0f8ff;
+.portfolio-grid h2{
+  color: aliceblue;
   text-align: center;
+  font-size: 40px;
 }
-.intro-p {
+.portfolio-grid p{
   font-size: 40px;
   color: aqua;
   text-align: center;
+}
+.avatar-img{
+  height: 250px;
+  padding-top: 5em;
+  
 }
 .about-grid{
   height: 80vh;

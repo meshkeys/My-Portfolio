@@ -24,26 +24,26 @@ class Contact extends Component {
                         <div className="contact-list">
                         <List>
                         <ListItem>
-                            <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton', color: 'aqua'}}>
+                            <ListItemContent style={{fontSize: '25px', fontFamily: 'sans-serif', color: 'aqua'}}>
                                 <i className="fa fa-phone-square" aria-hidden="true"/>
                                 (234) 803-953-0051
                             </ListItemContent>
                         </ListItem>
                         <ListItem>
-                        <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton', color: 'aqua'}}>
+                        <ListItemContent style={{fontSize: '25px', fontFamily: 'sans-serif', color: 'aqua'}}>
                                 <i className="fa fa-skype" aria-hidden="true"/>
                                 meshkeys@skype.com
                             </ListItemContent>
                         </ListItem>
                         <ListItem>
-                        <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton', color: 'aqua'}}>
+                        <ListItemContent style={{fontSize: '25px', fontFamily: 'sans-serif', color: 'aqua'}}>
                                 <i className="fa fa-envelope" aria-hidden="true"/>
                                 meshkeys@gmail.com
                             </ListItemContent>
                         </ListItem>
                         <ListItem>
                         <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton', color: 'aqua'}}>
-                                <i className="fa fa-linkedin" aria-hidden="true"/>
+                              <i className="fa fa-linkedin" aria-hidden="true"/>
                             </ListItemContent>
                         </ListItem>
                         </List>
