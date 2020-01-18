@@ -11,7 +11,7 @@
   height: 300px;
   width: 230px;
   padding-top: 6em;
-  border-radius: 10px;
+  border-radius: 1rem;
 }
 .intro-grid{
   font-size: 20px;
@@ -24,7 +24,7 @@
   text-align: center;
 }
 .about-grid{
-  height: 80vh;
+  /*height: 80vh;*/
   width: auto;
   background-color: #f0f8ff;
 }
@@ -37,27 +37,53 @@
   background-color: lightskyblue;
   display: flex;
 }
+.resume img{
+  border-radius: 1rem;
+}
 .contact-grid{
-  height: 80vh;
-  width: 100%;
+  /*height: 80vh;*/
+  /* width: 100%; */
+  padding-top: 2em;
   background-color: rgb(7, 1, 22);
   text-align: center;
   color: whitesmoke;
 }
+.btn{
+  border-color: green ;
+  border-radius: 2rem;
+}
+.btn a{
+  color: aqua;
+  text-decoration: none;
+}
+.quote{
+  font-size: 20px;
+}
+.contact-list{
+  width: auto;
+}
 .contact-list i {
-  font-size: 66px;
-  padding-right: 1em;
+  font-size: 70px;
+  padding-right: 0.3em;
   color: #f0f8ff;
-  ;
+}
+.contact-list a{
+  color: aqua;
+  text-decoration: none;
+  display: flex;
+}
+.contact-list h3{
+padding-top: 1em;
 }
 .footer-grid{
-  background-color: black;
-  font-size: 20px;
-  color: #f0f8ff;
+  background-color: #1B659B;
+  width: 100%;
 }
 .footer-grid a{
-  font-size: 20px;
+  font-size: 30px;
   display: flex;
-  color: #f0f8ff;
+  justify-content: space-between;
+  color: antiquewhite;
   list-style: none;
+  text-decoration: none;
 }

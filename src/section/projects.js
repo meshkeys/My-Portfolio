@@ -14,7 +14,7 @@ class Projects extends Component {
             {/*Project 1 */}
             <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>React project #1</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>
@@ -27,7 +27,7 @@ class Projects extends Component {
             {/*Project 2 */}
             <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>React project #2</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>
@@ -40,7 +40,7 @@ class Projects extends Component {
             {/*Project 3 */}
             <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>React project #3</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>
@@ -58,7 +58,7 @@ return(
     <div className="project-grid" id="portfolio"> 
     <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>Angular project #1</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button>
                 <Button colored>LiveDemo</Button>
@@ -71,7 +71,7 @@ return(
         {/*Project 2 */}
         <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>Angular project #2</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>
@@ -89,7 +89,7 @@ return(
 <div className="project-grid">
 <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>VueJs project #1</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button>
                 <Button colored>LiveDemo</Button>
@@ -102,7 +102,7 @@ return(
         {/*Project 2 */}
         <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>VueJs project #2</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>
@@ -120,7 +120,7 @@ return(
 <div className="project-grid">
 <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>MongoDB project #1</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button>
                 <Button colored>LiveDemo</Button>
@@ -133,7 +133,7 @@ return(
         {/*Project 2 */}
         <Card shadow={5} style={{minWidth: "450", margin: "auto" }}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHFpSQN43lwSdvhefZrWZuK-8qclT5CsUGTRn4sB1IehktQKkBw&s) center/ cover'}}>MongoDB project #2</CardTitle>
-            <CardText>here's is my project</CardText>
+            <CardText>here is my project</CardText>
             <CardActions border>
                 <Button colored>GitHub</Button> 
                 <Button colored>LiveDemo</Button>

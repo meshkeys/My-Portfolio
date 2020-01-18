@@ -13,7 +13,7 @@ class Navigation extends Component {
             smooth={false}
             offset={0}
             duration={500}
-            >Portfolio</Link>
+            ><h4>Portfolio</h4></Link>
            <Link
             activeClass="active"
             to="about"
@@ -21,7 +21,7 @@ class Navigation extends Component {
             smooth={false}
             offset={0}
             duration={500}
-            >About</Link>
+            ><h4>About</h4></Link>
             <Link
             activeClass="active"
             to="projects"
@@ -29,7 +29,7 @@ class Navigation extends Component {
             smooth={false}
             offset={0}
             duration={500}
-            >Projects</Link>
+            ><h4>Projects</h4></Link>
             <Link
             activeClass="active"
             to="contact"
@@ -37,7 +37,7 @@ class Navigation extends Component {
             smooth={false}
             offset={0}
             duration={1000}
-            >Contact</Link>
+            ><h4>Contact</h4></Link>
     </div>
   );
 }
